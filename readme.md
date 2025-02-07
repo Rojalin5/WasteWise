@@ -26,4 +26,3 @@ Waste Management Guidelines - India is a comprehensive platform designed to prov
 ## Contribution
 We welcome contributions from environmental experts, researchers, and individuals passionate about waste management. If you want to contribute, please contact us or submit your suggestions.
 
-# WasteWise
