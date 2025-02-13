@@ -1,0 +1,83 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.main-box {
+    width: 1070px;
+    margin: auto;
+}
+
+header {
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("images/home.jpeg");
+    height: 100vh;
+    -webkit-background-size: cover;
+    background-size: cover;
+    background-position: center center;
+    position: relative;
+}
+
+.nav {
+    position: absolute;
+    right: 20px;
+    top: 30px;
+    list-style: none;
+    text-transform: uppercase;
+}
+
+.nav li {
+    display: inline-block;
+}
+
+.nav li a {
+    color: #fff;
+    text-decoration: none;
+    padding: 5px 20px;
+    font-size: 15px;
+}
+
+.nav li a:hover {
+    border: 3px solid #fff;
+    border-radius: 15px;
+}
+
+.logo img {
+    position: absolute;
+    max-width: 100px;
+    height: auto;
+    margin-left: -145px;
+    float: left;
+}
+
+.home-desc {
+    position: absolute;
+    width: 650px;
+    height: 300px;
+    margin: 20% 30%;
+    text-align: center;
+}
+
+.home-desc h1 {
+    text-align: center;
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 35px;
+}
+
+.home-desc a {
+    border: 2px solid #fff;
+    color: #fff;
+    padding: 10px 25px;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 14px;
+    margin-top: 20px;
+    border-radius: 6px;
+    display: inline-block;
+}
+
+.home-desc a:hover {
+    background-color: #fff;
+    color: black;
+    border-radius: 6px;
+}
